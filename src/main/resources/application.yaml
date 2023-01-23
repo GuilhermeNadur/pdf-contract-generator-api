@@ -1,0 +1,8 @@
+# Apache Tomcat - Server Port
+server:
+  port: 8080
+
+# Spring Framework - Application, DataSource, H2 Database & JPA
+spring:
+  application:
+    name: pdf-contract-generator-api

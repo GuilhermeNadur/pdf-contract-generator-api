@@ -1,0 +1,326 @@
+[
+  {
+    "text": "CONTRATO PAAS (PLATAFORMA COMO SERVIÇO)",
+    "font": "Times-Bold",
+    "fontSize": "12",
+    "alignment": "1"
+  },
+  {
+    "text": "Código do Contrato: %s %n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "1"
+  },
+  {
+    "text": "Pelo presente instrumento particular de Contrato de Licenciamento de uso de Software, na modalidade PaaS (Plataforma como Serviço), na melhor forma de direito fazem entre si: %n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "(A) %s sociedade limitada, inscrita no Cadastro Nacional de Pessoas Jurídicas do Ministério da Fazenda (“CNPJ/MF”) sob o n° %s, com sede na %s, na Cidade de %s e Estado de %s, CEP %s, inscrita no CNPJ/MF sob nº %s, neste ato representada na forma do seu Contrato Social (“%s”); e %n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "(B) %s sociedade limitada, inscrita no Cadastro Nacional de Pessoas Jurídicas do Ministério da Fazenda (“CNPJ/MF”) sob o n° %s com sede na %s, na cidade de %s do Estado de %s, CEP %s, neste ato representada na forma do seu Contrato Social (“%s”); e %n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "USECASH e Contratante doravante denominados individualmente “Parte” e, em conjunto, “Partes”, %n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "Regulará a relação contratual a seguir descrita, que as PARTES concordam e aderem integralmente, conforme termos e condições expostas nas cláusulas seguintes. %n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "DOS TERMOS DEFINIDOS %n%n",
+    "font": "Times-Bold",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "As seguintes palavras e expressões quando presentes no CONTRATO terão, no singular ou no plural, o significado atribuído a elas nesta cláusula, exceto se o contexto for incompatível com qualquer significado aqui indicado. %n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "CONTRATADA: %s, denominada %s. %n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "CONTRATANTE: %s denominada %s. %n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "BENEFICIÁRIO: Qualquer pessoa que possua uma Conta Digital Pré-Paga, ou um Cartão Pré-Pago UseCash. %n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "CONTA DIGITAL DE PAGAMENTOS: Consiste em um serviço especializado com o objetivo de permitir a CONTRATANTE adquirir créditos pré-pagos e realizar transações financeiras de pagamentos. %n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "CONTA DIGITAL PRÉ-PAGA: Consiste em uma Conta Digital que receberá créditos pré-pagos de qualquer Conta Digital de Pagamentos UseCash.  %n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "SUPORTE TÉCNICO: Canal de atendimento e análoga assistência técnica para o recebimento de demandas, questionamentos e comunicações relacionadas ao funcionamento dos serviços.  %n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "1. DO OBJETO DO CONTRATO %n%n",
+    "font": "Times-Bold",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "1.1. O objeto do presente contrato é a gestão, apuração e pagamento das campanhas de incentivos dos colaboradores da CONTRATANTE. %n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "1.2 A CONTRATADA oferecerá ao CONTRATANTE uma licença de uso da Plataforma Online, neste ato instituída como Conta Digital de Pagamentos, com único e exclusivo objetivo de automatizar e realizar pagamentos de premiação aos colaboradores que possuam uma Conta Digital Pré-Paga UseCash. %n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "1.3. A CONTRATADA entregará Cartões Pré-Pagos para serem utilizados também como meio de pagamento pela CONTRATANTE. %n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "1.4. As operações poderão ser gerenciadas pela CONTRATANTE por meio da Conta Digital de Pagamentos.  %n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "2. DA AUTORIZAÇÃO DO BANCO CENTRAL DO BRASIL (BCB) %n%n",
+    "font": "Times-Bold",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "2.1. Fica instituída a CONTRATADA como ARRANJO DE PAGAMENTO FECHADO, que gere e faz a manutenção monetária. %n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "2.2. Um arranjo de pagamento é o conjunto de regras e procedimentos que disciplina a prestação de determinado serviço de pagamento ao público. São exemplos de arranjos de pagamento os procedimentos utilizados para realizar:  %n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "a. compras com cartões de crédito, débito e pré-pago, seja em moeda nacional ou em moeda estrangeira; %n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "b. transferências e remessas de recursos, como por exemplo DOC e TED. %n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "2.3. O serviço de pagamento, disciplinado no âmbito do arranjo, é o conjunto de atividades que pode envolver aporte e saque de recursos, emissão de instrumento de pagamento, gestão de conta de pagamento, transferências entre contas, credenciamento para aceitação de um instrumento de pagamento, remessa de fundos, entre outras listadas no art. 6º, inciso III, da Lei 12.865, de 9 de outubro de 2013. %n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "2.4. De acordo com o artigo 4º. da Circular 3.885, de 2018, as Instituições de Pagamentos são classificadas nas seguintes modalidades, de acordo com os serviços de pagamento prestados:  %n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "a. emissor de moeda eletrônica: %n%n i. gerencia conta de pagamento pré-paga, de usuário final; %n%n ii. disponibiliza transação de pagamento nessa conta com base em moeda eletrônica; %n%n iii. converte recursos de moeda eletrônica em moeda física ou escritural, ou vice-vesa, podendo habilitar a sua aceitação com a liquidação em conta de pagamento por ela gerenciada; %n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "2.5. Anualmente, ficam responsáveis todas as empresas categorizadas de tal forma a submeter informações ao BCB, de acordo com os seguintes critérios: %n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "a) Limitação de Propósito;",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "b) Valor total das transações de pagamento;",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "c) Saldo dos recursos depositados em Conta de Pagamento;",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "d) Quantidade de transações realizadas;",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "e) Número de usuários finais;",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "f) Efeitos do Arranjo sobre o mercado atual. %n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "2.6. Declara-se que a CONTRATADA atendendo ao Art. 4º da Circular nº 3.682, de 4/11/2013, constitui-se como um Arranjo de Pagamentos Não Integrantes do SPB, não necessitando de uma Carta Fiança para operar, conforme link disponibilizado para consulta: %n%n https://www.bcb.gov.br/htms/novaPaginaSPB/ArranjosNaoIntegrantes-Relacao2016.asp?IDPAI=ARRANJOSNAOINTEG, citada como UC SERVIÇOS DE TECNOLOGIA LTDA – ME, sob o código de nº 850536108. %n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "7. DA REMUNERAÇÃO E FORMA DE PAGAMENTO %n%n",
+    "font": "Times-Bold",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "7.1. Fica estipulado à CONTRATANTE o pagamento de uma mensalidade no valor de acordo a tabela a seguir pelo faturamento de cada  CNPJ:  %n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "Faturamento do CNPJ por mês: R$ 100.00 até R$ 150.999 - Valor da Mensalidade: R$ %s/mês %n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "Faturamento do CNPJ por mês: R$ 151.000 até R$ 300.999 - Valor da Mensalidade: R$ %s/mês %n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "Faturamento do CNPJ por mês: acima de R$ 301.000 - Valor da Mensalidade: R$ %s/mês %n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "7.1.2 A mensalidade final para as %s  lojas (filiais) é de R$ %s (%s) . Novas filiais será cobrado o valor adicional de acordo com a tabela de faturamento na clausula 7.1.  %n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "21. FORO %n%n",
+    "font": "Times-Bold",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "21.1. Fica eleito o foro central da Comarca de Sorocaba, Estado de São Paulo, com expressa Trenúncia a qualquer outro, por mais privilegiado que seja, para dirimir as questões oriundas da interpretação e execução do presente contrato. %n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "E, por assim estarem justos e contratados, mandaram extrair o presente instrumento em duas (02) vias, para um só efeito, assinando-as, juntamente com as testemunhas, a tudo presentes.",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "Sorocaba, SP - %s. %n%n%n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "%s  (“%s”) %n%n CNPJ.: %s %n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "%s  (“%s”) %n%n CNPJ.: %s %n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "TESTEMUNHA 1: %n%n%n%n%n",
+    "font": "Times-Bold",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "Nome: %s %n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "CPF: %s %n%n%n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "TESTEMUNHA 2: %n%n%n%n%n",
+    "font": "Times-Bold",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "Nome: %s %n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  },
+  {
+    "text": "CPF: %s %n%n",
+    "font": "Times",
+    "fontSize": "12",
+    "alignment": "3"
+  }
+]

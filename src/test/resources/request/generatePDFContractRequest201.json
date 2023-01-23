@@ -1,0 +1,39 @@
+{
+  "contratado": {
+    "cnpj": "84.102.069/0001-16",
+    "razaoSocial": "FRONTEIRA BR",
+    "nomeFantasia": "FRONTEIRA BR",
+    "endereco": "Av. Barbieri Gonçalves",
+    "cidade": "Campo Belo",
+    "estado": "SP",
+    "cep": "08776-102"
+  },
+  "contratante": {
+    "cnpj": "39.899.626/0001-17",
+    "razaoSocial": "CAIO MORO LTDA",
+    "nomeFantasia": "CAIO MORO LTDA",
+    "endereco": "Av. Lírio Gomes",
+    "cidade": "Mogi das Cruzes",
+    "estado": "SP",
+    "cep": "09329-100"
+  },
+  "mensalidade": {
+    "quantidadeLojas": "3",
+    "valor1": "13000",
+    "valor2": "21500",
+    "valor3": "37500",
+    "valorFinal": "21500",
+    "valorPorExtenso": "VINTE UM MIL E QUINHENTOS REAIS"
+  },
+  "testemunhas": [
+    {
+      "nome": "FLÁVIO SIQUEIRA NOVAIS",
+      "cpf": "481.285.850-02"
+    },
+    {
+      "nome": "AUGUSTO CAMARGO DE OLIVEIRA",
+      "cpf": "505.108.340-43"
+    }
+  ],
+  "dataInicio": "2023-01-21T13:56:39.492"
+}

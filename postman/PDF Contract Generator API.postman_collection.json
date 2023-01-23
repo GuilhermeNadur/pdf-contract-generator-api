@@ -1,0 +1,95 @@
+{
+	"info": {
+		"_postman_id": "e493c0a3-ea51-41c8-b778-ee5f22c49ea7",
+		"name": "PDF Contract Generator API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "15828802"
+	},
+	"item": [
+		{
+			"name": "Actuator",
+			"item": [
+				{
+					"name": "Actuator Health",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{localhost}}/actuator/health",
+							"host": [
+								"{{localhost}}"
+							],
+							"path": [
+								"actuator",
+								"health"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Generate a New PDF Contract",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"contratado\": {\r\n        \"cnpj\": \"84.102.069/0001-16\",\r\n        \"razaoSocial\": \"FRONTEIRA BR\",\r\n        \"nomeFantasia\": \"FRONTEIRA BR\",\r\n        \"endereco\": \"Av. Barbieri Gonçalves\",\r\n        \"cidade\": \"Campo Belo\",\r\n        \"estado\": \"SP\",\r\n        \"cep\": \"08776-102\"\r\n    },\r\n    \"contratante\": {\r\n        \"cnpj\": \"39.899.626/0001-17\",\r\n        \"razaoSocial\": \"CAIO MORO LTDA\",\r\n        \"nomeFantasia\": \"CAIO MORO LTDA\",\r\n        \"endereco\": \"Av. Lírio Gomes\",\r\n        \"cidade\": \"Mogi das Cruzes\",\r\n        \"estado\": \"SP\",\r\n        \"cep\": \"09329-100\"\r\n    },\r\n    \"mensalidade\": {\r\n        \"quantidadeLojas\": \"3\",\r\n        \"valor1\": \"13000\",\r\n        \"valor2\": \"21500\",\r\n        \"valor3\": \"37500\",\r\n        \"valorFinal\": \"21500\",\r\n        \"valorPorExtenso\": \"VINTE UM MIL E QUINHENTOS REAIS\"\r\n    },\r\n    \"testemunhas\": [\r\n        {\r\n            \"nome\": \"FLÁVIO SIQUEIRA NOVAIS\",\r\n            \"cpf\": \"481.285.850-02\"\r\n        },\r\n        {\r\n            \"nome\": \"AUGUSTO CAMARGO DE OLIVEIRA\",\r\n            \"cpf\": \"505.108.340-43\"\r\n        }\r\n    ],\r\n    \"dataInicio\": \"2023-01-21T13:56:39.492\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{localhost}}/api/v1/pdf/contract",
+					"host": [
+						"{{localhost}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"pdf",
+						"contract"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get a PDF Contract By UUID",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{localhost}}/api/v1/pdf/contract/af016fd7-3946-473a-beb4-069a69853be7",
+					"host": [
+						"{{localhost}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"pdf",
+						"contract",
+						"af016fd7-3946-473a-beb4-069a69853be7"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
